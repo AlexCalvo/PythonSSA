@@ -1,1 +1,1 @@
-# PythonSSA
+# Prácticas de Seguridad
